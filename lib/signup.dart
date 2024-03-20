@@ -25,7 +25,7 @@ class _SignupState extends State<Signup> {
             ),
           ),
           Padding(
-            padding: const EdgeInsets.only(bottom: 60),
+            padding: const EdgeInsets.only(bottom: 30),
             child: Text(
               "create an account it's free",
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.w300),
